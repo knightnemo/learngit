@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git has a mutating index called stage.
 Git tracks changes.
 Is this working?
-Creating a branch in git is super fast.
+Creating a branch in git is super fast AND simple.
