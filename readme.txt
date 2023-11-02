@@ -5,4 +5,5 @@ Git has a mutating index called stage.
 Git tracks changes.
 Is this working?
 Creating a new branch in git is super fast AND simple.
+Trying --no-ff git merge
 
